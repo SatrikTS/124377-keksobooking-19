@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Satrik Satrik](https://up.htmlacademy.ru/javascript/19/user/124377).
-* Наставник: `Неизвестно`.
+* Наставник: `Нет наставника`.
 
 ---
 
